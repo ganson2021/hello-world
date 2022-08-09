@@ -7,3 +7,5 @@ This focusses mainly on Git and GitHub as master
 This repository is built step by step in the tutorial. 
 
 Now includes steps for GitHub
+
+Add another line
